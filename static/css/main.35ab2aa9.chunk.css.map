@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.scss"],"names":[],"mappings":"AAAA,KACE,gBAAiB,CAClB,iBAIG,WAAY,CACZ,YAAa,CACd,gBAGC,WAAY,CACZ,eAAgB","file":"main.35ab2aa9.chunk.css","sourcesContent":[".App {\n  max-width: 1300px;\n}\n\n.Carousel {\n  &__image {\n    width: 130px;\n    height: 130px;\n  }\n\n  &__list {\n    width: 390px;\n    overflow: hidden;\n  }\n}\n"]}
